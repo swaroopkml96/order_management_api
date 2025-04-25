@@ -159,12 +159,12 @@ orders = {
     "1001": {
         "customer_name": "John Doe",
         "items": ["Men's POLO T-Shirt (1)", "Black Socks (1 Pair)"],
-        "delivery_slot": "10 AM - 12 PM"
+        "delivery_slot": "Thursday, 10 AM - 12 PM"
     },
     "1002": {
         "customer_name": "Jane Smith",
         "items": ["Chanel Handbag (1)"],
-        "delivery_slot": "2 PM - 4 PM"
+        "delivery_slot": "Wednesday, 2 PM - 4 PM"
     }
 }
 
