@@ -5184,7 +5184,7 @@ html_page_2 = """
                 id=SKIP_TO_CONTENT_BTN class="SKIP_TO_CONTENT_BTN LHrbPP has-custom-focus" tabindex=0>Skip to Main
                 Content</button>
                 <br/>
-            <h1 style="color:#AA6C39; font-size:28px; font-family:'Brush Script MT', cursive; text-align:center; margin-top:1vh;text-decoration:underline;">Welcome to Tinsel Boutique</h1>
+            <em><h1 style="color:#AA6C39; font-size:28px; font-family:'Brush Script MT', cursive; text-align:center; margin-top:1vh;">Welcome to Tinsel Boutique</h1></em>
             <div id=BACKGROUND_GROUP class="backgroundGroup_c1dmp BACKGROUND_GROUP">
                 <div id=BACKGROUND_GROUP_TRANSITION_GROUP>
                     <div id=pageBackground_c1dmp data-media-height-override-type data-media-position-override=false
